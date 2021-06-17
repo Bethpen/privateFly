@@ -43,8 +43,8 @@ body {
 }
 
 .navCenter {
-  margin-left: 0.7rem;
-  margin-right: 1rem;
+  margin-left: 1.3rem;
+  margin-right: 1.3rem;
 }
 
 /* Navbar container */
@@ -193,7 +193,7 @@ body {
 
 .jumbotron {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/city_pairs305x165.jpg);
+    url(city_pairs305x165.jpg);
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
